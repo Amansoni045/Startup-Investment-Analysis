@@ -74,7 +74,6 @@ Venture capital fund managers deploy capital across hundreds of startups with li
 | `Outcome Label` | Engineered: Success / Failed / Unknown | Categorical grouping |
 | `Funding Bucket` | Engineered: $500K / $2M / $10M / $50M ranges | Tableau dimension |
 
-Full column definitions in [`docs/data_dictionary.md`](docs/data_dictionary.md).
 
 ---
 
